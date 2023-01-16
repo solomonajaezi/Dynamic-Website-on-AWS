@@ -10,19 +10,19 @@ Tier-2: Private subnet that will host the webservers.
 Tier-3: Private subnet host the database.
 
 Steps for the project
-Creating a VPC
-Creating a NAT Gateway
-Creating Security Groups
-Starting RDS instances with MySql engine
-Creating S3 bucket and uploading application file
-Creating IAM role with S3 policy
-Launched EC2 Instance in the public subnet
-Launched setup server in the public subnet
-Installed MySql workbench on my computer
-Installed and configured the dynamic website on EC2 instance using LAMP stack
-Register a new domain using Route 53
-Register SSL certificate to secure the website
-Created an auto scaling group
+1. Creating a VPC
+2. Creating a NAT Gateway
+3. Creating Security Groups
+4. Starting RDS instances with MySql engine
+5. Creating S3 bucket and uploading application file
+6. Creating IAM role with S3 policy
+7. Launched EC2 Instance in the public subnet
+8. Launched setup server in the public subnet
+9. Installed MySql workbench on my computer
+10. Installed and configured the dynamic website on EC2 instance using LAMP stack
+11. Register a new domain using Route 53
+12. Register SSL certificate to secure the website
+13. Created an auto scaling group
 
 Final result: www.solomonsrental.com
 
