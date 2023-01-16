@@ -6,11 +6,9 @@ I used AWS services and tools such as EC2, S3, RDS, Route-53, NAT Gateway, Basti
 
 This project involves creating one public subnet and two private subnets:
 
-Tier-1: Public subnet, which will have a direct route to the internet through an internet gateway.
-
-Tier-2: Private subnet that will host the webservers.
-
-Tier-3: Private subnet host the database.
+Tier-1: Public subnet that will have a direct route to the internet through an internet gateway.
+Tier-2: Private subnet that hosts the webservers.
+Tier-3: Private subnet that host the database.
 
 Steps for the project
 1. Creating a VPC
